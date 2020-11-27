@@ -1,5 +1,5 @@
 # AI-Scheduler
-Final Project Computer Science - Ariel University
+Final Project Computer Science - Ariel University<br>
 Team members: Amit Bibi 203262647, Moran Oshia 313292633, Alex Chagan 206262123
 
 Our Project:  AI-Scheduler:
